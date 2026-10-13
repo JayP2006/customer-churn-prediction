@@ -6,7 +6,7 @@ Predict customer churn probability using a trained Machine Learning model throug
 
 Customer churn prediction helps businesses identify customers who may discontinue their services, enabling data-driven customer retention strategies.
 
-\<p align="center">
+<p align="center">
 &#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python" />
 &#x20; \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn" />
 &#x20; \<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)" alt="FastAPI" />
