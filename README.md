@@ -494,10 +494,3 @@ GitHub: [@JayP2006](https://github.com/JayP2006)
 
 ---
 
-\<p align="center">
-&#x20; \<b>Built to explore Machine Learning, predictive analytics, and full-stack application development.\</b>
-\</p>
-
-\<p align="center">
-&#x20; If you find this project useful, consider giving the repository a ⭐.
-\</p>
