@@ -96,29 +96,16 @@ The application combines a trained classification model with a FastAPI backend a
 - Visual churn probability indicator.
 - Responsive design for desktop and mobile devices.
 
----
+
 
 ## 🖥️ Application Preview
 
-\<!-- Add your actual application screenshot here after capturing it. -->
-
-\<p align="center">
-&#x20; \<i>Capture your running application and upload the screenshot to this repository to showcase the interface here.\</i>
-\</p>
-
-**Recommended screenshot path:** `docs/images/dashboard.png`
-
-After uploading the screenshot, replace the placeholder above with:
-
-```html
 <p align="center">
-  <img src="docs/images/dashboard.png"
+  <img src="frontend/public/Screenshot 2026-10-13 210450.png"
        alt="Customer Churn Prediction Dashboard"
        width="100%">
 </p>
-```
 
----
 
 ## 🔄 How It Works
 
